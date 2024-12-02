@@ -36,7 +36,7 @@ Welcome to my GitHub repository! Here, you'll find projects and resources showca
 
 ## 📚 **Projects**  
 
-### 📊 [Interactive Business Summary (Power BI)](https://drive.google.com/file/d/1yf_8rdvkIYYpL_zNAsAVuHSXWgq3YZ1F/view?usp=drive_link)  
+### 📊 [Interactive Business Summary (Power BI)](https://github.com/Udaeyy/myBIproject)  
 - Created a dynamic dashboard to deliver actionable insights from raw data using advanced visualizations.  
 
 ### 📈 **Business Analysis (SQL)**  
