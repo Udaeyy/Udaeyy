@@ -1,5 +1,6 @@
-# 👋 Hi, I'm *Uday Mahankali*  
-
+# 👋 Hi, I'm *Uday Mahankali*            
+![Animation - 1734109593182](https://github.com/user-attachments/assets/2fe18565-2226-4077-96af-7c3cdeb0ad60)
+                          
 🎯 *Results-driven Data Analyst* passionate about transforming data into actionable insights and strategic value.  
 
 Welcome to my GitHub repository! Here, you'll find projects and resources showcasing my expertise in data analysis, visualization, and business intelligence.  
@@ -42,6 +43,7 @@ Welcome to my GitHub repository! Here, you'll find projects and resources showca
 ---
 
 ## 💼 *What I Do*  
+![200w-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/5c541999-c636-4442-acf4-704f527d127d)
 
 I specialize in:  
 1. *Identifying Objectives*: Collaborating with stakeholders to define clear business goals.  
