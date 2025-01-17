@@ -59,7 +59,7 @@ I specialize in:
 
 ## 📫 *Connect with Me*  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahankali-uday-05525425a/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/udaydataanalyst)  
 - 🖥 [Portfolio](https://github.com/Udaeyy)  
 - 📧 [Email](mailto:umahankali89@gmail.com)  
 
